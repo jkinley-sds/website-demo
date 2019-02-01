@@ -378,14 +378,12 @@ Stroke effects - Nucleo outline icons
 .hero-home {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  height: 500px; }
+  grid-template-rows: 1fr 1fr 1fr; }
   .hero-home img {
     grid-column: 1 / span 3;
     grid-row: 1 / span 3;
     height: 100%;
-    width: 100%;
-    overflow: hidden; }
+    width: 100%; }
 
 .hero__content {
   grid-column: 2;
