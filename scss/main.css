@@ -378,7 +378,8 @@ Stroke effects - Nucleo outline icons
 .hero-home {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr; }
+  grid-template-rows: 1fr 1fr 1fr;
+  height: 500px; }
   .hero-home img {
     grid-column: 1 / span 3;
     grid-row: 1 / span 3;
@@ -386,10 +387,9 @@ Stroke effects - Nucleo outline icons
     width: 100%; }
 
 .hero__content {
-  grid-column: 2;
+  padding: 1rem;
+  grid-column: 1 / -1;
   grid-row: 2;
-  align-self: center;
-  justify-self: center;
   text-align: center;
   z-index: 1; }
   .hero__content h1 {
