@@ -376,27 +376,27 @@ Stroke effects - Nucleo outline icons
   color: #111; }
 
 .hero-home {
-  background: #ccc center center no-repeat;
-  background-size: cover;
-  height: 500px;
-  width: 100%; }
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  height: 500px; }
+  .hero-home img {
+    grid-column: 1 / span 3;
+    grid-row: 1 / span 3;
+    height: 100%;
+    width: 100%;
+    overflow: hidden; }
 
-.container-hero {
-  height: 100%;
-  display: flex;
-  align-items: center; }
-
-.hero-content {
-  padding: 1rem; }
-  .hero-content h1 {
+.hero__content {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
+  justify-self: center;
+  text-align: center;
+  z-index: 1; }
+  .hero__content h1 {
     font-size: 2.6rem;
     line-height: 1.1; }
-  @media (min-width: 600px) {
-    .hero-content {
-      width: 60%; }
-      .hero-content h1 {
-        font-size: 3.3rem;
-        line-height: 1.1; } }
 
 @media (min-width: 600px) {
   .home-items {
