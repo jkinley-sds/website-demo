@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on Sierra Data Systems</title>
+    <link>https://jkinley-sds.github.io/website-demo/software/</link>
+    <description>Recent content in software on Sierra Data Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jkinley-sds.github.io/website-demo/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benefits</title>
+      <link>https://jkinley-sds.github.io/website-demo/software/benefits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/software/benefits/</guid>
+      <description>Donec sed odio dui. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo.
+Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</description>
+    </item>
+    
+  </channel>
+</rss>
