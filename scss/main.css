@@ -321,6 +321,25 @@ Stroke effects - Nucleo outline icons
   -o-transform: translateX(0.5px) translateY(0.5px);
   transform: translateX(0.5px) translateY(0.5px); }
 
+@supports (grid-area: auto) {
+  .icon-list {
+    display: grid;
+    grid-column-gap: 3rem;
+    grid-row-gap: 3rem; } }
+
+@supports (grid-area: auto) {
+  .icon-list {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); } }
+
+.icon-list-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.icon-list svg {
+  height: 56px;
+  width: 56px; }
+
 .container {
   max-width: 1000px;
   margin: 0 auto;

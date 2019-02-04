@@ -38,10 +38,6 @@
   </url>
   
   <url>
-    <loc>https://jkinley-sds.github.io/website-demo/software/benefits/</loc>
-  </url>
-  
-  <url>
     <loc>https://jkinley-sds.github.io/website-demo/blog/</loc>
     <lastmod>2019-01-21T09:02:26-08:00</lastmod>
   </url>
@@ -72,6 +68,10 @@
   </url>
   
   <url>
+    <loc>https://jkinley-sds.github.io/website-demo/icons-demo/</loc>
+  </url>
+  
+  <url>
     <loc>https://jkinley-sds.github.io/website-demo/software/features/proof-of-delivery/</loc>
   </url>
   
@@ -85,6 +85,10 @@
   
   <url>
     <loc>https://jkinley-sds.github.io/website-demo/sitemap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/benefits-block/</loc>
   </url>
   
   <url>
