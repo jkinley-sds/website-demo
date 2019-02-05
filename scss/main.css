@@ -410,91 +410,6 @@ Stroke effects - Nucleo outline icons
     font-size: 2.6rem;
     line-height: 1.1; }
 
-.container--flex {
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center; }
-
-/*
-
-// HOME
-.hero-home {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-template-rows: 1fr 1fr 1fr;
-	height: 500px;
-	img {
-		grid-column: 1 / span 3;
-		grid-row: 1 / span 3;
-		height: 100%;
-		width: 100%;
-	}
-}
-
-
-.hero__content  {
-	padding: 1rem;
-	grid-column: 1 / -1;
-    grid-row: 2;
-
-
-	text-align: center;
-    z-index: 1;
-
-	h1 {
-		font-size: 2.6rem;
-		line-height: 1.1;
-	}
-
-}
-
-*/
-@media (min-width: 600px) {
-  .home-items {
-    display: flex;
-    margin: 0 -2rem; }
-    .home-items .item-home {
-      flex: 1;
-      padding: 0 2rem; }
-    .home-items .item-home svg {
-      margin-bottom: 1rem; }
-    .home-items > * + * {
-      margin-left: 2rem; } }
-
-.section-benefits {
-  background-color: #f5f5f5;
-  color: #555; }
-
-.benefits-flex > * + * {
-  margin-top: 3rem; }
-
-@media (min-width: 600px) {
-  .benefits-flex {
-    display: flex;
-    margin: 0 -2rem; }
-    .benefits-flex > * {
-      padding: 0 2rem;
-      flex: 1 1 40%; }
-    .benefits-flex > * + * {
-      margin-top: 0; } }
-
-.company-hero {
-  background: url("../img/orange-arrow.jpg") center center no-repeat;
-  color: #111;
-  background-size: cover;
-  height: 500px;
-  isplay: flex;
-  align-items: center; }
-  .company-hero h3 {
-    font-weight: 500; }
-
-.company-hero-text {
-  margin-top: 5.1rem;
-  width: 90%; }
-  .company-hero-text h1 {
-    margin-bottom: 2.2rem; }
-
 .company-slim {
   background: url("../img/white-triangles.jpg") bottom center no-repeat;
   background-size: cover;
@@ -511,52 +426,16 @@ Stroke effects - Nucleo outline icons
   color: black;
   text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.9); }
 
-.company-flex > * + * {
-  margin-top: 2rem; }
-
-@media (min-width: 600px) {
-  .company-flex {
-    display: flex;
-    align-items: center;
-    margin: 0 -2rem; }
-    .company-flex > * {
-      padding: 0 2rem;
-      flex: 1; }
-    .company-flex .img-wrap {
-      flex: 1; } }
-
-.software-hero {
-  background: url("../img/red-angles.jpg") center center no-repeat;
-  background-size: cover;
-  color: white;
-  height: 500px;
-  display: flex;
-  align-items: center; }
-  .software-hero h3 {
-    font-weight: 400; }
-
-.software-technology .flex-tech > * + * {
-  margin-top: 5rem; }
-
-@media (min-width: 600px) {
-  .software-technology .flex-tech {
-    display: flex;
-    margin: 0 -2rem; }
-    .software-technology .flex-tech > div {
-      padding: 0 2rem; }
-    .software-technology .flex-tech > * + * {
-      margin-top: 0; } }
-
-.software-technology .tech-item {
+.tech-item {
   display: grid;
   grid-template-columns: 60px 1fr;
   grid-gap: 1rem;
   margin-bottom: 1rem; }
-  .software-technology .tech-item h3 {
+  .tech-item h3 {
     margin-bottom: 0;
     line-height: 1.1; }
 
-.software-technology .circle {
+.circle {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -564,49 +443,11 @@ Stroke effects - Nucleo outline icons
   width: 50px;
   height: 50px;
   background-color: orange; }
-  .software-technology .circle svg {
+  .circle svg {
     color: white; }
-
-.blog-hero {
-  background: url("../img/blue-blackboard.jpg") center center no-repeat;
-  background-size: cover;
-  color: white;
-  height: 500px;
-  display: flex;
-  align-items: center; }
-  .blog-hero h3 {
-    font-weight: 400; }
 
 .section-blog {
   background-color: #eee; }
-
-.contact-hero {
-  background: url("../img/boards.jpg") center center no-repeat;
-  background-size: cover;
-  color: white;
-  height: 500px;
-  display: flex;
-  align-items: center; }
-  .contact-hero h3 {
-    font-weight: 400; }
-
-.contact-flex > * + * {
-  margin-top: 3rem; }
-
-.contact-flex .contact-info {
-  background-color: #f5f5f5;
-  padding: 2rem;
-  width: 320px; }
-
-@media (min-width: 600px) {
-  .contact-flex {
-    display: flex;
-    margin: 0 -2rem; }
-    .contact-flex .contact-form {
-      flex: 1;
-      margin-right: 5rem; }
-    .contact-flex > * + * {
-      margin-top: 0rem; } }
 
 .gmaps {
   height: 450px;
@@ -619,21 +460,6 @@ Stroke effects - Nucleo outline icons
   background-size: cover;
   color: white; }
 
-@media (min-width: 600px) {
-  .cta-flex {
-    display: flex;
-    align-items: flex-end;
-    height: 300px;
-    margin: 0 -2rem; }
-    .cta-flex > * {
-      padding: 0 2rem; } }
-
-@media (min-width: 900px) {
-  .doohicky {
-    display: flex; }
-    .doohicky > * {
-      flex-basis: 50%; } }
-
 @supports (grid-area: auto) {
   .features-list {
     display: grid;
@@ -643,6 +469,38 @@ Stroke effects - Nucleo outline icons
 @supports (grid-area: auto) {
   .features-list {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); } }
+
+@media (min-width: 600px) {
+  .flex-grid {
+    display: flex; }
+    .flex-grid > * + * {
+      margin-left: 2rem; }
+    .flex-grid .flex-25 {
+      width: 25%; }
+    .flex-grid .flex-33 {
+      width: 33%; }
+    .flex-grid .flex-40 {
+      width: 40%; }
+    .flex-grid .flex-50 {
+      width: 50%; }
+    .flex-grid .flex-60 {
+      width: 60%; }
+    .flex-grid .flex-66 {
+      width: 66%; }
+    .flex-grid .flex-75 {
+      width: 75%; } }
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat; }
+
+.hero--light {
+  color: #eee; }
 
 /* List Styles */
 .list {
@@ -906,6 +764,12 @@ a[role="button"] {
 .align-bottom {
   vertical-align: bottom !important; }
 
+.full-height {
+  height: 100%; }
+
+.full-width {
+  width: 100%; }
+
 .truncate {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -921,7 +785,7 @@ a[role="button"] {
   /* IE6, IE7 */
   clip: rect(1px, 1px, 1px, 1px); }
 
-.flex {
+.flex-layout {
   display: flex; }
 
 .inline-flex {
