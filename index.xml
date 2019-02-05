@@ -176,6 +176,15 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
     </item>
     
     <item>
+      <title>Solutions</title>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testimonials</title>
       <link>https://jkinley-sds.github.io/website-demo/testimonials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -191,16 +200,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
       
       <guid>https://jkinley-sds.github.io/website-demo/software/features/warehouse-management/</guid>
       <description>&lt;p&gt;Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cum sociis natoque penatibus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>testing</title>
-      <link>https://jkinley-sds.github.io/website-demo/testing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jkinley-sds.github.io/website-demo/testing/</guid>
-      <description>Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</description>
     </item>
     
   </channel>

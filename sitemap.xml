@@ -96,6 +96,10 @@
   </url>
   
   <url>
+    <loc>https://jkinley-sds.github.io/website-demo/solutions/</loc>
+  </url>
+  
+  <url>
     <loc>https://jkinley-sds.github.io/website-demo/testimonials/</loc>
   </url>
   
@@ -105,10 +109,6 @@
   
   <url>
     <loc>https://jkinley-sds.github.io/website-demo/software/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jkinley-sds.github.io/website-demo/testing/</loc>
   </url>
   
 </urlset>
