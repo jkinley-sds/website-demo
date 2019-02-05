@@ -634,6 +634,16 @@ Stroke effects - Nucleo outline icons
     .doohicky > * {
       flex-basis: 50%; } }
 
+@supports (grid-area: auto) {
+  .features-list {
+    display: grid;
+    grid-column-gap: 3rem;
+    grid-row-gap: 3rem; } }
+
+@supports (grid-area: auto) {
+  .features-list {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); } }
+
 /* List Styles */
 .list {
   padding-left: 0.5rem;

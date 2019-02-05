@@ -43,10 +43,6 @@
   </url>
   
   <url>
-    <loc>https://jkinley-sds.github.io/website-demo/company/</loc>
-  </url>
-  
-  <url>
     <loc>https://jkinley-sds.github.io/website-demo/contact/</loc>
   </url>
   
@@ -69,6 +65,14 @@
   
   <url>
     <loc>https://jkinley-sds.github.io/website-demo/icons-demo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/company/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/hero/</loc>
   </url>
   
   <url>
