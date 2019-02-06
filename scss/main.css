@@ -212,7 +212,8 @@ Icon colors
   --icon-size-xs: 0.5em;
   --icon-size-sm: 0.8em;
   --icon-size-lg: 1.6em;
-  --icon-size-xl: 2em; }
+  --icon-size-xl: 2em;
+  --icon-size-xxl: 3em; }
 
 .icon {
   display: inline-block;
@@ -249,6 +250,10 @@ Change icon size
 .icon-xl {
   height: var(--icon-size-xl);
   width: var(--icon-size-xl); }
+
+.icon-xxl {
+  height: var(--icon-size-xxl);
+  width: var(--icon-size-xxl); }
 
 /* --------------------------------
 
@@ -792,6 +797,32 @@ a[role="button"] {
 .order-last {
   order: 99999; }
 
+:root {
+  --sp: 1rem;
+  --sp-small: 0.25rem;
+  --sp-large: 2rem; }
+
+.m {
+  margin: var(--sp); }
+
+.mt, .mv {
+  margin-top: var(--sp); }
+
+.mb, .mv {
+  margin-bottom: var(--sp); }
+
+.ml, .mh {
+  margin-left: var(--sp); }
+
+.mr, .mh {
+  margin-right: var(--sp); }
+
+.m--sm {
+  --sp: var(--sp-small); }
+
+.m--lg {
+  --sp: var(--sp-large); }
+
 .page__header {
   z-index: 1000;
   box-shadow: 0px 1px 5px 2px rgba(119, 119, 119, 0.5); }
@@ -917,7 +948,7 @@ a[href^="tel:"] {
   .flex-grid {
     display: flex; }
     .flex-grid > * + * {
-      margin-left: 2rem; }
+      margin-left: 1rem; }
     .flex-grid .flex-25 {
       width: 25%; }
     .flex-grid .flex-33 {
