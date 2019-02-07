@@ -96,6 +96,10 @@
   </url>
   
   <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/</loc>
+  </url>
+  
+  <url>
     <loc>https://jkinley-sds.github.io/website-demo/software/benefits-block/</loc>
   </url>
   
@@ -109,10 +113,6 @@
   
   <url>
     <loc>https://jkinley-sds.github.io/website-demo/software/features/warehouse-management/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jkinley-sds.github.io/website-demo/software/</loc>
   </url>
   
 </urlset>
