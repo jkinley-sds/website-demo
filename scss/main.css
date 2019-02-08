@@ -357,8 +357,6 @@ Stroke effects - Nucleo outline icons
   max-width: 100%; }
 
 .page__header {
-  position: sticky;
-  top: 0;
   width: 100%;
   background-color: #fff; }
 
@@ -400,14 +398,14 @@ Stroke effects - Nucleo outline icons
   .block--thick {
     padding: 8rem 0; }
 
-.hero {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.hero-responsive {
+  position: relative;
   height: 500px;
-  background-size: cover;
-  background-position: center right;
-  background-repeat: no-repeat; }
+  border: 1px solid red; }
+  .hero-responsive img {
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover; }
 
 .hero__overlay {
   position: absolute;
@@ -418,18 +416,6 @@ Stroke effects - Nucleo outline icons
 
 .hero--light {
   color: #eee; }
-
-.hero-responsive {
-  position: relative;
-  height: 500px;
-  overflow: hidden; }
-  .hero-responsive img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; }
-
-.hero__text {
-  width: 70%; }
 
 /* List Styles */
 .list {
@@ -539,7 +525,8 @@ Stroke effects - Nucleo outline icons
     top: 82px;
     right: 10px;
     width: 50%;
-    border-radius: 3px; }
+    border-radius: 3px;
+    z-index: 5000; }
     .dropdown__content a {
       display: block;
       padding: 1rem;
@@ -843,7 +830,7 @@ a[role="button"] {
   --sp: var(--sp-large); }
 
 .page__header {
-  z-index: 1000;
+  z-index: 10000;
   box-shadow: 0px 1px 5px 2px rgba(119, 119, 119, 0.5); }
 
 a[href^="tel:"] {
