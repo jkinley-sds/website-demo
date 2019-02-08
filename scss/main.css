@@ -401,6 +401,7 @@ Stroke effects - Nucleo outline icons
 .hero-responsive {
   position: relative;
   height: 500px;
+  overflow: hidden;
   border: 1px solid red; }
   .hero-responsive img {
     width: 100%;
