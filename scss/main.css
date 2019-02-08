@@ -417,6 +417,15 @@ Stroke effects - Nucleo outline icons
 .hero--light {
   color: #eee; }
 
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat; }
+
 /* List Styles */
 .list {
   padding-left: 0.5rem;
