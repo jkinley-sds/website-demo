@@ -10,32 +10,5 @@
 	<atom:link href="https://jkinley-sds.github.io/website-demo/software/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Our Software</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/hero/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jkinley-sds.github.io/website-demo/software/hero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Platform</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/platform-block/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jkinley-sds.github.io/website-demo/software/platform-block/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software that Works With You, Not Against You</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/benefits-block/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jkinley-sds.github.io/website-demo/software/benefits-block/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

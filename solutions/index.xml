@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on Sierra Data Systems</title>
+    <link>https://jkinley-sds.github.io/website-demo/solutions/</link>
+    <description>Recent content in Solutions on Sierra Data Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jkinley-sds.github.io/website-demo/solutions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asset Tracking</title>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</guid>
+      <description>In today’s fast-paced business world, keeping track of all the moving pieces can be increasingly frustrating and expensive. Accurately watching over the location, possession and movement of valuable company assets can be the difference in finishing a job on time or missing costly deadlines. From hospitals to construction sites, facility management, and equipment sales, forward-thinking companies are looking for better ways to track valuable equipment.
+As we with work with clients in looking to better handle this process, we continuously find ways to use mobile technology to give them greater clarity into the real-time activity of all critical assets.</description>
+    </item>
+    
+    <item>
+      <title>Last-Mile</title>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/last-mile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/last-mile/</guid>
+      <description>You have heard it said, &amp;ldquo;it is not how you start, but how you finish.&amp;rdquo; In the world of supply chain logistics, this is undoubtedly the case. The final stretch of the delivery process is no time to coast.
+Along with being a key to customer satisfaction, last mile delivery can be the most expensive and time-consuming part of the entire shipping process. Today&amp;rsquo;s end-customer is more mobile savvy and less patient than ever before.</description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</guid>
+      <description>Efficiency within the production and manufacturing industry is the pivotal difference in profitability and customer satisfaction. From receiving the initial order to moving through the shop floor and onto the loading dock, manufacturing companies must have a realistic understanding of their actual production process.
+The transformative potential of enterprise mobility within the manufacturing industry is inescapable. But for many mid-sized companies, an investment into a full-scale Warehouse Management System (WMS) is cost prohibitive and goes beyond the pressing need to have a cohesive strategy tying together the sales order, production, staging, kitting, and shipment process.</description>
+    </item>
+    
+  </channel>
+</rss>
