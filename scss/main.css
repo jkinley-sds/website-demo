@@ -960,4 +960,7 @@ a[href^="tel:"] {
     .flex-grid .flex-66 {
       width: 66%; }
     .flex-grid .flex-75 {
-      width: 75%; } }
+      width: 75%; }
+    .flex-grid .image-right {
+      order: 2;
+      margin-left: 1rem; } }

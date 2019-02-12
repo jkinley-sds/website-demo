@@ -12,6 +12,35 @@
     
     
     <item>
+      <title>Last Mile Delivery</title>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/last-mile-delivery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/last-mile-delivery/</guid>
+      <description>&lt;p&gt;You have heard it said, &amp;ldquo;it is not how you start, but how you finish.&amp;rdquo; In the world of supply chain logistics, this is undoubtedly the case. The final stretch of the delivery process is no time to coast.&lt;/p&gt;
+
+&lt;p&gt;Along with being a key to customer satisfaction, last mile delivery can be the most expensive and time-consuming part of the entire shipping process. Today&amp;rsquo;s end-customer is more mobile savvy and less patient than ever before. Customers have grown to expect instant shipping updates and faster delivery times at lower costs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</guid>
+      <description>&lt;p&gt;Efficiency within the production and manufacturing industry is the pivotal difference in profitability and customer satisfaction. From receiving the initial order to moving through the shop floor and onto the loading dock, manufacturing companies must have a realistic understanding of their actual production process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Asset Tracking</title>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</guid>
+      <description>&lt;p&gt;In today’s fast-paced business world, keeping track of all the moving pieces can be increasingly frustrating and expensive. Accurately watching over the location, possession and movement of valuable company assets can be the difference in finishing a job on time or missing costly deadlines. From hospitals to construction sites, facility management, and equipment sales, forward-thinking companies are looking for better ways to track valuable equipment.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>The Big Productivity Killer</title>
       <link>https://jkinley-sds.github.io/website-demo/blog/big-productivity-killer/</link>
       <pubDate>Mon, 21 Jan 2019 09:02:26 -0800</pubDate>
@@ -77,15 +106,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
     </item>
     
     <item>
-      <title>Asset Tracking</title>
-      <link>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</guid>
-      <description>&lt;p&gt;In today’s fast-paced business world, keeping track of all the moving pieces can be increasingly frustrating and expensive. Accurately watching over the location, possession and movement of valuable company assets can be the difference in finishing a job on time or missing costly deadlines. From hospitals to construction sites, facility management, and equipment sales, forward-thinking companies are looking for better ways to track valuable equipment.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://jkinley-sds.github.io/website-demo/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -119,26 +139,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
       
       <guid>https://jkinley-sds.github.io/website-demo/icons-demo/</guid>
       <description>This is the current list of Font-Awesome icons we are using. If there is an icon that you wish to use, let me know and I will add it to our list. You can find a comprehensive list of available icons on the Font Awesome website: Free Set and Pro Set</description>
-    </item>
-    
-    <item>
-      <title>Last-Mile</title>
-      <link>https://jkinley-sds.github.io/website-demo/solutions/last-mile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jkinley-sds.github.io/website-demo/solutions/last-mile/</guid>
-      <description>You have heard it said, &amp;ldquo;it is not how you start, but how you finish.&amp;rdquo; In the world of supply chain logistics, this is undoubtedly the case. The final stretch of the delivery process is no time to coast.
-Along with being a key to customer satisfaction, last mile delivery can be the most expensive and time-consuming part of the entire shipping process. Today&amp;rsquo;s end-customer is more mobile savvy and less patient than ever before.</description>
-    </item>
-    
-    <item>
-      <title>Manufacturing</title>
-      <link>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</guid>
-      <description>Efficiency within the production and manufacturing industry is the pivotal difference in profitability and customer satisfaction. From receiving the initial order to moving through the shop floor and onto the loading dock, manufacturing companies must have a realistic understanding of their actual production process.
-The transformative potential of enterprise mobility within the manufacturing industry is inescapable. But for many mid-sized companies, an investment into a full-scale Warehouse Management System (WMS) is cost prohibitive and goes beyond the pressing need to have a cohesive strategy tying together the sales order, production, staging, kitting, and shipment process.</description>
     </item>
     
     <item>

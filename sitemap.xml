@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jkinley-sds.github.io/website-demo/solutions/last-mile-delivery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</loc>
+  </url>
+  
+  <url>
     <loc>https://jkinley-sds.github.io/website-demo/blog/big-productivity-killer/</loc>
     <lastmod>2019-01-21T09:02:26-08:00</lastmod>
   </url>
@@ -38,10 +50,6 @@
   </url>
   
   <url>
-    <loc>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</loc>
-  </url>
-  
-  <url>
     <loc>https://jkinley-sds.github.io/website-demo/blog/</loc>
     <lastmod>2019-01-21T09:02:26-08:00</lastmod>
   </url>
@@ -69,14 +77,6 @@
   
   <url>
     <loc>https://jkinley-sds.github.io/website-demo/icons-demo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jkinley-sds.github.io/website-demo/solutions/last-mile/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</loc>
   </url>
   
   <url>
