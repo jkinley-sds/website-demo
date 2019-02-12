@@ -47,6 +47,18 @@
   </url>
   
   <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/features/dispatching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/features/driver-management/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/features/</loc>
+  </url>
+  
+  <url>
     <loc>https://jkinley-sds.github.io/website-demo/</loc>
     <lastmod>2019-01-21T09:02:26-08:00</lastmod>
   </url>
@@ -60,7 +72,35 @@
   </url>
   
   <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/hero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/platform-block/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/features/proof-of-delivery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/features/reporting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/features/routing/</loc>
+  </url>
+  
+  <url>
     <loc>https://jkinley-sds.github.io/website-demo/sitemap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/benefits-block/</loc>
   </url>
   
   <url>
@@ -69,6 +109,10 @@
   
   <url>
     <loc>https://jkinley-sds.github.io/website-demo/testimonials/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jkinley-sds.github.io/website-demo/software/features/warehouse-management/</loc>
   </url>
   
 </urlset>
