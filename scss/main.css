@@ -841,6 +841,27 @@ a[role="button"] {
 .m--lg {
   --sp: var(--sp-large); }
 
+.p {
+  margin: var(--sp); }
+
+.pt, .pv {
+  margin-top: var(--sp); }
+
+.pb, .pv {
+  margin-bottom: var(--sp); }
+
+.pl, .ph {
+  margin-left: var(--sp); }
+
+.pr, .ph {
+  margin-right: var(--sp); }
+
+.p--sm {
+  --sp: var(--sp-small); }
+
+.p--lg {
+  --sp: var(--sp-large); }
+
 .page__header {
   z-index: 10000;
   box-shadow: 0px 1px 5px 2px rgba(119, 119, 119, 0.5); }
