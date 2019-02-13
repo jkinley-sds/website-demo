@@ -417,8 +417,9 @@ Stroke effects - Nucleo outline icons
 .hero--light {
   color: #eee; }
 
-.hero__text {
-  width: 70%; }
+@media (min-width: 900px) {
+  .hero__text {
+    width: 50%; } }
 
 .hero {
   display: flex;
@@ -966,6 +967,8 @@ a[href^="tel:"] {
 @media (min-width: 600px) {
   .flex-grid {
     display: flex; }
+    .flex-grid > * {
+      flex: 1; }
     .flex-grid > * + * {
       margin-left: 1rem; }
     .flex-grid .flex-25 {
