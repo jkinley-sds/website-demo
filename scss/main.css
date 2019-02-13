@@ -199,6 +199,11 @@ strong {
 a {
   color: steelblue; }
 
+@media (min-width: 900px) {
+  .columns-2 {
+    column-count: 2;
+    column-gap: 5rem; } }
+
 /* Type scale For production should use something like this */
 /* Generated using nucleoapp.com */
 /* --------------------------------
