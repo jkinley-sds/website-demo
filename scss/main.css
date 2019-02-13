@@ -964,13 +964,16 @@ a[href^="tel:"] {
   .features-list {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); } }
 
+.flex-grid > * + * {
+  margin-top: 2rem; }
+
 @media (min-width: 600px) {
   .flex-grid {
     display: flex; }
     .flex-grid > * {
       flex: 1; }
     .flex-grid > * + * {
-      margin-left: 1rem; }
+      margin-left: 2rem; }
     .flex-grid .flex-25 {
       width: 25%; }
     .flex-grid .flex-33 {
@@ -987,4 +990,6 @@ a[href^="tel:"] {
       width: 75%; }
     .flex-grid .image-right {
       order: 2;
-      margin-left: 1rem; } }
+      margin-left: 2rem; }
+    .flex-grid > * + * {
+      margin-top: 0; } }
