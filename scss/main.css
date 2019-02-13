@@ -328,8 +328,8 @@ Stroke effects - Nucleo outline icons
 @supports (grid-area: auto) {
   .icon-list {
     display: grid;
-    grid-column-gap: 3rem;
-    grid-row-gap: 3rem; } }
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem; } }
 
 @supports (grid-area: auto) {
   .icon-list {
@@ -602,8 +602,8 @@ a[role="button"] {
 @supports (grid-area: auto) {
   .testimonials-grid {
     display: grid;
-    grid-column-gap: 3rem;
-    grid-row-gap: 3rem; } }
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem; } }
 
 @supports (grid-area: auto) {
   .testimonials-grid {
@@ -668,6 +668,23 @@ a[role="button"] {
 
 #TableOfContents ul li {
   margin-bottom: 1em; }
+
+@media (min-width: 600px) {
+  @supports (grid-area: auto) {
+    .gallery {
+      display: grid;
+      grid-column-gap: 1rem;
+      grid-row-gap: 1rem; } }
+  @supports (grid-area: auto) {
+    .gallery {
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); } } }
+
+.gallery .gallery__item {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  border-radius: 3px; }
 
 .text-left {
   text-align: left !important; }
@@ -873,8 +890,8 @@ a[href^="tel:"] {
 @supports (grid-area: auto) {
   .features-grid {
     display: grid;
-    grid-column-gap: 3rem;
-    grid-row-gap: 3rem; } }
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem; } }
 
 @supports (grid-area: auto) {
   .features-grid {
@@ -896,8 +913,8 @@ a[href^="tel:"] {
 @supports (grid-area: auto) {
   .blog-grid {
     display: grid;
-    grid-column-gap: 3rem;
-    grid-row-gap: 3rem; } }
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem; } }
 
 @supports (grid-area: auto) {
   .blog-grid {
@@ -957,8 +974,8 @@ a[href^="tel:"] {
 @supports (grid-area: auto) {
   .features-list {
     display: grid;
-    grid-column-gap: 3rem;
-    grid-row-gap: 3rem; } }
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem; } }
 
 @supports (grid-area: auto) {
   .features-list {
