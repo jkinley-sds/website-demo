@@ -525,14 +525,13 @@ Stroke effects - Nucleo outline icons
     width: 100%; }
 
 /* Blog Post */
-.post__header {
-  padding: 1rem; }
-
-.post__title {
-  color: #555; }
-
-.post__image {
-  margin-bottom: 2rem; }
+.post {
+  width: 60%;
+  margin: 0 auto; }
+  .post__title {
+    color: #555; }
+  .post__image {
+    margin-bottom: 2rem; }
 
 .tags {
   display: -webkit-inline-box;
