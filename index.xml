@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Sierra Data Systems</title>
+    <title>Mobile Logistics Software on Sierra Data Systems</title>
     <link>https://jkinley-sds.github.io/website-demo/</link>
-    <description>Recent content in Homepage on Sierra Data Systems</description>
+    <description>Recent content in Mobile Logistics Software on Sierra Data Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Jan 2019 09:02:26 -0800</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Last Mile Logistics</title>
+      <title>Last Mile Logistics Software</title>
       <link>https://jkinley-sds.github.io/website-demo/solutions/last-mile-logistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -32,7 +32,7 @@
     </item>
     
     <item>
-      <title>Asset Tracking</title>
+      <title>Asset Tracking Software</title>
       <link>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -97,6 +97,15 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
     </item>
     
     <item>
+      <title>Customer Testimonials</title>
+      <link>https://jkinley-sds.github.io/website-demo/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkinley-sds.github.io/website-demo/testimonials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dispatching</title>
       <link>https://jkinley-sds.github.io/website-demo/software/features/dispatching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,7 +115,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
     </item>
     
     <item>
-      <title>Driver Management</title>
+      <title>Driver Management Software</title>
       <link>https://jkinley-sds.github.io/website-demo/software/features/driver-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -133,7 +142,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
     </item>
     
     <item>
-      <title>Proof of Delivery</title>
+      <title>Proof of Delivery Software</title>
       <link>https://jkinley-sds.github.io/website-demo/software/features/proof-of-delivery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -142,7 +151,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
     </item>
     
     <item>
-      <title>Reporting</title>
+      <title>Reporting for Mobile Logistics</title>
       <link>https://jkinley-sds.github.io/website-demo/software/features/reporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -151,7 +160,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
     </item>
     
     <item>
-      <title>Routing</title>
+      <title>Route Planning Software</title>
       <link>https://jkinley-sds.github.io/website-demo/software/features/routing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -169,16 +178,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus 
     </item>
     
     <item>
-      <title>Testimonials</title>
-      <link>https://jkinley-sds.github.io/website-demo/testimonials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jkinley-sds.github.io/website-demo/testimonials/</guid>
-      <description>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis.</description>
-    </item>
-    
-    <item>
-      <title>Warehouse Management</title>
+      <title>Warehouse Management Software</title>
       <link>https://jkinley-sds.github.io/website-demo/software/features/warehouse-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

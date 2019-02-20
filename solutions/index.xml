@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solutions on Sierra Data Systems</title>
+    <title>Mobile Logistics Solutions on Sierra Data Systems</title>
     <link>https://jkinley-sds.github.io/website-demo/solutions/</link>
-    <description>Recent content in Solutions on Sierra Data Systems</description>
+    <description>Recent content in Mobile Logistics Solutions on Sierra Data Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Last Mile Logistics</title>
+      <title>Last Mile Logistics Software</title>
       <link>https://jkinley-sds.github.io/website-demo/solutions/last-mile-logistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Asset Tracking</title>
+      <title>Asset Tracking Software</title>
       <link>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
