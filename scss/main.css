@@ -189,8 +189,13 @@ label {
 textarea {
   min-height: 6.5rem; }
 
+.form-group {
+  margin: 0;
+  padding: 0;
+  border-width: 0; }
+
 .form-group + .form-group {
-  margin-top: 1rem; }
+  margin-top: 2rem; }
 
 .form-contact {
   background-color: #eee;
