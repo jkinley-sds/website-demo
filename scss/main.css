@@ -317,7 +317,8 @@ Icon colors
   --icon-size-sm: 0.8em;
   --icon-size-lg: 1.6em;
   --icon-size-xl: 2em;
-  --icon-size-xxl: 3em; }
+  --icon-size-xxl: 3em;
+  --icon-size-giant: 10em; }
 
 .icon {
   display: inline-block;
@@ -358,6 +359,10 @@ Change icon size
 .icon-xxl {
   height: var(--icon-size-xxl);
   width: var(--icon-size-xxl); }
+
+.icon-giant {
+  height: var(--icon-size-giant);
+  width: var(--icon-size-giant); }
 
 /* --------------------------------
 
@@ -1084,6 +1089,14 @@ a[role="button"] {
 
 a[href^="tel:"] {
   color: steelblue; }
+
+.email-success {
+  width: 70%;
+  margin: 0 auto;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 3rem; }
 
 .tech-item {
   display: grid;
