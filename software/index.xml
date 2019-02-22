@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logistics, Manufacturing &amp; Asset Tracking on Sierra Data Systems</title>
-    <link>https://jkinley-sds.github.io/website-demo/software/</link>
+    <link>/software/</link>
     <description>Recent content in Logistics, Manufacturing &amp; Asset Tracking on Sierra Data Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jkinley-sds.github.io/website-demo/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

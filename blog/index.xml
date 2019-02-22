@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Sierra Data Systems</title>
-    <link>https://jkinley-sds.github.io/website-demo/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blog on Sierra Data Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jkinley-sds.github.io/website-demo/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>6 Ways To Ruin Your Company With Mobile Software</title>
-      <link>https://jkinley-sds.github.io/website-demo/blog/6-ways-ruin-your-company-mobile-software/</link>
+      <link>/blog/6-ways-ruin-your-company-mobile-software/</link>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/blog/6-ways-ruin-your-company-mobile-software/</guid>
+      <guid>/blog/6-ways-ruin-your-company-mobile-software/</guid>
       <description>&lt;p&gt;There is no doubt that mobile technology can revolutionize the way you run your business. But the actual motivation behind such a change will make all the difference in how your company (and boss) adopt the changes. Let&amp;rsquo;s face it, a lot of companies out there will sell you something without forcing you to have what I call, a gut-check.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>3 Must-Have Features For Successful Specimen Delivery</title>
-      <link>https://jkinley-sds.github.io/website-demo/blog/3-features-successful-specimen-delivery/</link>
+      <link>/blog/3-features-successful-specimen-delivery/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/blog/3-features-successful-specimen-delivery/</guid>
+      <guid>/blog/3-features-successful-specimen-delivery/</guid>
       <description>&lt;p&gt;Anyone can deliver something from one location to another; the million dollar question is how &lt;em&gt;efficiently&lt;/em&gt; can they do it? However, the real challenge for most clinical delivery companies is the variety of items being delivered and the specific handling rules for those types.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Is Your Company Ready For a Mobile Logistics Solution?</title>
-      <link>https://jkinley-sds.github.io/website-demo/blog/is-your-company-ready-for-a-mobile-logistics-solution/</link>
+      <link>/blog/is-your-company-ready-for-a-mobile-logistics-solution/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/blog/is-your-company-ready-for-a-mobile-logistics-solution/</guid>
+      <guid>/blog/is-your-company-ready-for-a-mobile-logistics-solution/</guid>
       <description>&lt;p&gt;There is often an unfortunate assumption made by companies looking to invest in mobile solutions. The thinking goes like this: do a quick Google search, scan a list of features and benefits, pick the option with the least expensive user license fees, and that&amp;rsquo;s that.&lt;/p&gt;</description>
     </item>
     

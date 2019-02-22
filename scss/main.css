@@ -207,6 +207,9 @@ select {
     border-color: orange;
     outline: 0; }
 
+input + span {
+  display: inline; }
+
 label {
   display: block;
   font-weight: bold;
@@ -215,19 +218,39 @@ label {
 textarea {
   min-height: 6.5rem; }
 
-.form-group {
-  margin: 0;
-  padding: 0;
-  border-width: 0; }
-
-.form-group + .form-group {
-  margin-top: 2rem; }
-
 .form-contact {
   background-color: #eee;
   padding: 2rem;
   border: 1px solid #ccc;
   border-radius: 3px; }
+
+.form-group {
+  margin: 0;
+  padding: 0;
+  border-width: 0;
+  position: relative; }
+
+.form-group + .form-group {
+  margin-top: 2rem; }
+
+.form-group input[required] + span::after,
+.form-group textarea[required] + span::after {
+  content: "*";
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  right: -14px;
+  height: 10px;
+  width: 10px;
+  color: red; }
+
+.form-group input[required]:focus:valid,
+.form-group textarea[required]:focus:valid {
+  border-color: green; }
+
+.form-group input[required]:focus:invalid,
+.form-group textarea[required]:focus:invalid {
+  border-color: red; }
 
 /* Type Scale For development and testing */
 :root {
@@ -790,7 +813,9 @@ a[role="button"] {
     .gallery {
       grid-template-columns: repeat(3, 200px); } }
   .gallery .gallery__image {
-    border: 1px solid black;
+    border: 1px solid #ddd;
+    -webkit-box-shadow: 0px 1px 5px 1px rgba(153, 153, 153, 0.2);
+            box-shadow: 0px 1px 5px 1px rgba(153, 153, 153, 0.2);
     margin-bottom: 0.5rem; }
   .gallery .gallery__caption {
     font-size: 1rem; }

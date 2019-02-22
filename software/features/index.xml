@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Features on Sierra Data Systems</title>
-    <link>https://jkinley-sds.github.io/website-demo/software/features/</link>
+    <link>/software/features/</link>
     <description>Recent content in Features on Sierra Data Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jkinley-sds.github.io/website-demo/software/features/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/software/features/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dispatching</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/features/dispatching/</link>
+      <link>/software/features/dispatching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/software/features/dispatching/</guid>
+      <guid>/software/features/dispatching/</guid>
       <description>To keep your organization running smoothly, it is critical to schedule and properly dispatch your personnel. Manual dispatching systems can quickly become crippled by various service requests, changes to employee schedules, and frequent ad-hoc requests. By automating your dispatching needs your mobile workforce is better equipped to respond to ongoing work and maintain the responsive service times your customers expect.</description>
     </item>
     
     <item>
       <title>Driver Management Software</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/features/driver-management/</link>
+      <link>/software/features/driver-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/software/features/driver-management/</guid>
+      <guid>/software/features/driver-management/</guid>
       <description>Nothing ruins an efficient day like forgotten supplies or neglected safety checks. Take advantage of tailored mobile workflows and GPS management to keep your fleet moving forward.</description>
     </item>
     
     <item>
       <title>Proof of Delivery Software</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/features/proof-of-delivery/</link>
+      <link>/software/features/proof-of-delivery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/software/features/proof-of-delivery/</guid>
+      <guid>/software/features/proof-of-delivery/</guid>
       <description>Whether you are transporting people, medical supplies or delivering perishable food, you can’t afford to waste time, money or resources. Leverage a mobile solution that gives you the answers you need to oversee the handling of all items efficiently and accurately.</description>
     </item>
     
     <item>
       <title>Reporting for Mobile Logistics</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/features/reporting/</link>
+      <link>/software/features/reporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/software/features/reporting/</guid>
+      <guid>/software/features/reporting/</guid>
       <description>The most successful companies know that being held captive by the tyranny of the urgent rarely produces quality service and efficient operations. Taking advantage of our reporting features allows you to step back and evaluate critical operational indicators and set your team up for greater success.</description>
     </item>
     
     <item>
       <title>Route Planning Software</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/features/routing/</link>
+      <link>/software/features/routing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/software/features/routing/</guid>
+      <guid>/software/features/routing/</guid>
       <description>Without the proper planning, even the best delivery operations will struggle to maintain efficiency and productivity. Organize your static routes or integrate with route optimization software and give your delivery operations the tools to be productive and cost efficient.</description>
     </item>
     
     <item>
       <title>Warehouse Management Software</title>
-      <link>https://jkinley-sds.github.io/website-demo/software/features/warehouse-management/</link>
+      <link>/software/features/warehouse-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jkinley-sds.github.io/website-demo/software/features/warehouse-management/</guid>
+      <guid>/software/features/warehouse-management/</guid>
       <description>Having a reliable and comprehensive Warehouse Management System is essential for any production or distribution company&amp;rsquo;s success. Leverage our built-in warehouse management functionality, or integrate with a dedicated enterprise WMS for even greater visibility into the movement and storage of your inventory.</description>
     </item>
     
