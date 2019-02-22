@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile Logistics Solutions on Sierra Data Systems</title>
-    <link>/solutions/</link>
+    <link>https://jkinley-sds.github.io/website-demo/solutions/</link>
     <description>Recent content in Mobile Logistics Solutions on Sierra Data Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/solutions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jkinley-sds.github.io/website-demo/solutions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Last Mile Logistics Software</title>
-      <link>/solutions/last-mile-logistics/</link>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/last-mile-logistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/solutions/last-mile-logistics/</guid>
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/last-mile-logistics/</guid>
       <description>&lt;p&gt;You have heard it said, &amp;ldquo;it is not how you start, but how you finish.&amp;rdquo; In the world of supply chain logistics, this is undoubtedly the case. The final stretch of the delivery process is no time to coast.&lt;/p&gt;
 
 &lt;p&gt;Along with being a key to customer satisfaction, last mile delivery can be the most expensive and time-consuming part of the entire shipping process. Today&amp;rsquo;s end-customer is more mobile savvy and less patient than ever before. Customers have grown to expect instant shipping updates and faster delivery times at lower costs.&lt;/p&gt;</description>
@@ -23,19 +23,19 @@
     
     <item>
       <title>Manufacturing</title>
-      <link>/solutions/manufacturing/</link>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/solutions/manufacturing/</guid>
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/manufacturing/</guid>
       <description>&lt;p&gt;Efficiency within the production and manufacturing industry is the pivotal difference in profitability and customer satisfaction. From receiving the initial order to moving through the shop floor and onto the loading dock, manufacturing companies must have a realistic understanding of their actual production process.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Asset Tracking Software</title>
-      <link>/solutions/asset-tracking/</link>
+      <link>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/solutions/asset-tracking/</guid>
+      <guid>https://jkinley-sds.github.io/website-demo/solutions/asset-tracking/</guid>
       <description>&lt;p&gt;In today’s fast-paced business world, keeping track of all the moving pieces can be increasingly frustrating and expensive. Accurately watching over the location, possession and movement of valuable company assets can be the difference in finishing a job on time or missing costly deadlines. From hospitals to construction sites, facility management, and equipment sales, forward-thinking companies are looking for better ways to track valuable equipment.&lt;/p&gt;</description>
     </item>
     
